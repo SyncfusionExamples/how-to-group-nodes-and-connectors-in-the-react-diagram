@@ -1,11 +1,11 @@
 # How to Group Nodes and Connectors in the React Diagram
-A quick-start React app that shows how to group nodes and connectors in the Syncfusion React Diagram component. Learn how to group nodes and connectors, programmatically and dynamically. Also learn how to update a node group and add annotations. Finally, it shows how to create a nested group.  
+A quick-start React app that shows how to group nodes and connectors in the Syncfusion&reg; React Diagram component. Learn how to group nodes and connectors, programmatically and dynamically. Also learn how to update a node group and add annotations. Finally, it shows how to create a nested group.  
 
 The React Diagram is a feature-rich component for visualizing, creating, and editing interactive diagrams. It supports creating flowcharts, organizational charts, mind maps, and BPMN charts through code or a visual interface. Grouping is used to cluster multiple nodes and connectors into a single element. A group acts like a container for its children.  
 
 Documentation: [https://ej2.syncfusion.com/react/documentation/diagram/automatic-layout#mind-map-layout](https://ej2.syncfusion.com/react/documentation/diagram/group)
 
-Demo: https://ej2.syncfusion.com/react/demos/#/fluent2/diagram/grouping-and-ordering
+Demo: https://ej2.Syncfusion&reg;.com/react/demos/#/fluent2/diagram/grouping-and-ordering
 
 ------------------------------------------------------------------------------------------------
 
