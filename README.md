@@ -5,7 +5,7 @@ The React Diagram is a feature-rich component for visualizing, creating, and edi
 
 Documentation: [https://ej2.syncfusion.com/react/documentation/diagram/automatic-layout#mind-map-layout](https://ej2.syncfusion.com/react/documentation/diagram/group)
 
-Demo: https://ej2.Syncfusion&reg;.com/react/demos/#/fluent2/diagram/grouping-and-ordering
+Demo: https://ej2.syncfusion.com/react/demos/#/fluent2/diagram/grouping-and-ordering
 
 ------------------------------------------------------------------------------------------------
 
